@@ -15,3 +15,5 @@ int main() {
     }
     printf("size of array = %d", count); // output 
 }
+
+// for words in loop use if(arr[i] == ' ' && arr[i+1] !== ' '
